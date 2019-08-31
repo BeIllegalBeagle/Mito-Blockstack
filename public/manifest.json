@@ -1,0 +1,13 @@
+{
+  "name": "Mito",
+  "description": "A simple demo of Blockstack Auth",
+  "icons": [
+    {
+    "src": "mito.png",
+    "sizes": "192x192",
+    "type": "image/png"
+    }
+  ],
+  "start_url": "./index.html",
+  "display": "standalone"
+}
