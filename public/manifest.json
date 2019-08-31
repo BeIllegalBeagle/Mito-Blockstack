@@ -4,7 +4,7 @@
   "icons": [
     {
     "src": "mito.png",
-    "sizes": "192x192",
+    "sizes": "192x180",
     "type": "image/png"
     }
   ],
